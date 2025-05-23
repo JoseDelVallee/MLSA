@@ -27,6 +27,9 @@ This repository collects some of the key free Microsoft learning paths to help y
 
 ## 🧠 About These Courses
 
+[Ver imagen de Microsoft Q3](./img/MicrosoftQ3.jpg)
+
+
 Azure is part of the "Intelligent Cloud" segment, which generated $26.8 billion USD in revenue, growing 21% year over year.
 
 This segment accounts for a massive share of Microsoft’s business, with an operating margin of 41%.
