@@ -67,6 +67,6 @@ Follow these quick steps to start your Microsoft Learn journey and access the co
 
 Once you finish a course, please submit your proof of completion using the following form:
 
-👉 [**Submit Evidence Here**](#) *(Insert your Microsoft Forms or Google Forms link here)*
+👉 [**Submit Evidence Here**](https://docs.google.com/forms/d/e/1FAIpQLSc-PVQR8njxZKZtbnTkb5tZIz8-ICPguZmwyZnrtvKr1EfDlw/viewform?usp=sharing&ouid=116941962524305950926) 
 
 > This helps us keep track of your progress and recognize your efforts. 🌟
