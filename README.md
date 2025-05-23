@@ -60,7 +60,8 @@ Follow these quick steps to start your Microsoft Learn journey and access the co
    This will take you directly to the learning path page.
    [🗂️ Courses](https://github.com/JoseDelVallee/MLSA)
 
-5. **Start learning!**  
+5. **Start learning!**
+   📷 ![Texto alternativo](./img/cap4.png)
    The platform will track your progress automatically — no need to finish in one go.
 
 ---
