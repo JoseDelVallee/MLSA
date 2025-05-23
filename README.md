@@ -48,18 +48,19 @@ Follow these quick steps to start your Microsoft Learn journey and access the co
 ### 📝 Step-by-step Guide
 
 1. **Go to the Microsoft Learn website**  
-   📷 ![Texto alternativo](./img/cap1.png)
+   📷 ![Texto alternativo](./img/cap12.png)
 
    👉 [https://learn.microsoft.com](https://learn.microsoft.com)
 
 2. **Create or sign in with a Microsoft account**  
-   📷 *(Insert screenshot here)*  
+   📷 ![Texto alternativo](./img/cap2.png)
    You can use a personal email (Outlook, Hotmail, etc.) or your school email.
 
 3. **Click on the course link from the table above**  
    This will take you directly to the learning path page.
+   [🗂️ Courses](https://github.com/JoseDelVallee/MLSA)
 
-4. **Start learning!**  
+5. **Start learning!**  
    The platform will track your progress automatically — no need to finish in one go.
 
 ---
