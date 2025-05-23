@@ -28,8 +28,11 @@ This repository collects some of the key free Microsoft learning paths to help y
 ## 🧠 About These Courses
 
 Azure is part of the "Intelligent Cloud" segment, which generated $26.8 billion USD in revenue, growing 21% year over year.
+
 This segment accounts for a massive share of Microsoft’s business, with an operating margin of 41%.
+
 Microsoft is betting big on the cloud. Learning Azure gives you access to cutting-edge tools and a fast-growing job market with high demand.
+
 So learning Azure it’s about tapping into one of the core revenue engines of one of the world’s top tech companies. 💼🚀
 
 
