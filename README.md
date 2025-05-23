@@ -48,7 +48,8 @@ Follow these quick steps to start your Microsoft Learn journey and access the co
 ### 📝 Step-by-step Guide
 
 1. **Go to the Microsoft Learn website**  
-   📷 *(Insert screenshot here)*  
+   📷 ![Texto alternativo](./img/cap1.jpg)
+
    👉 [https://learn.microsoft.com](https://learn.microsoft.com)
 
 2. **Create or sign in with a Microsoft account**  
