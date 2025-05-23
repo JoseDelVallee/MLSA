@@ -38,6 +38,18 @@ Microsoft is betting big on the cloud. Learning Azure gives you access to cuttin
 
 So learning Azure it’s about tapping into one of the core revenue engines of one of the world’s top tech companies. 💼🚀
 
+---
+
+### 🔍 What Will You Learn?
+
+These Microsoft Learn courses are designed to give you strong foundations in key areas of modern technology:
+
+- **☁️ Cloud Computing** – Understand how cloud services work and how to deploy them using Azure.
+- **🤖 Artificial Intelligence** – Explore the basics of AI and how to apply it using Microsoft tools.
+- **📊 Data & Analytics** – Learn how data is stored, managed, and analyzed at scale.
+- **🔐 Security & Compliance** – Discover how to protect data and meet modern compliance standards.
+- **⚙️ Power Platform & Automation** – Build low-code apps and automate workflows with ease.
+- **💻 Software Development** – Improve your coding skills with C#, GitHub, and GitHub Copilot.
 
 ---
 
@@ -73,3 +85,5 @@ Once you finish a course, please submit your proof of completion using the follo
 👉 [**Submit Evidence Here**](https://docs.google.com/forms/d/e/1FAIpQLSc-PVQR8njxZKZtbnTkb5tZIz8-ICPguZmwyZnrtvKr1EfDlw/viewform?usp=sharing&ouid=116941962524305950926) 
 
 > This helps us keep track of your progress and recognize your efforts. 🌟
+
+
