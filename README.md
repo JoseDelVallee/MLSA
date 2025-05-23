@@ -1,7 +1,7 @@
 # MLSA
 
 
-# 📚 My Professional Learning Courses
+# 📚 Microsoft Learn paths
 
 This repository collects some of the key free Microsoft learning paths to help you build skills in cloud, AI, data, security, development, and more.
 
