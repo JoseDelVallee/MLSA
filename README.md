@@ -3,7 +3,8 @@
 
 # 📚 My Professional Learning Courses
 
-This repository 
+This repository collects some of the key free Microsoft learning paths to help you build skills in cloud, AI, data, security, development, and more.
+
 
 ---
 
