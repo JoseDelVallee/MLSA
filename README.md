@@ -27,7 +27,7 @@ This repository collects some of the key free Microsoft learning paths to help y
 
 ## 🧠 About These Courses
 
-[Ver imagen de Microsoft Q3](./img/MicrosoftQ3.jpg)
+[Ver imagen de Microsoft Q3](./img/MicrosoftQ3.jpeg)
 
 
 Azure is part of the "Intelligent Cloud" segment, which generated $26.8 billion USD in revenue, growing 21% year over year.
