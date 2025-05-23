@@ -41,5 +41,32 @@ So learning Azure it’s about tapping into one of the core revenue engines of o
 
 ---
 
-## 🛠️ Repository Structure
+## 🚀 Get Started with Microsoft Learn
 
+Follow these quick steps to start your Microsoft Learn journey and access the courses listed above:
+
+### 📝 Step-by-step Guide
+
+1. **Go to the Microsoft Learn website**  
+   📷 *(Insert screenshot here)*  
+   👉 [https://learn.microsoft.com](https://learn.microsoft.com)
+
+2. **Create or sign in with a Microsoft account**  
+   📷 *(Insert screenshot here)*  
+   You can use a personal email (Outlook, Hotmail, etc.) or your school email.
+
+3. **Click on the course link from the table above**  
+   This will take you directly to the learning path page.
+
+4. **Start learning!**  
+   The platform will track your progress automatically — no need to finish in one go.
+
+---
+
+## 📤 Submit Your Course Completion
+
+Once you finish a course, please submit your proof of completion using the following form:
+
+👉 [**Submit Evidence Here**](#) *(Insert your Microsoft Forms or Google Forms link here)*
+
+> This helps us keep track of your progress and recognize your efforts. 🌟
