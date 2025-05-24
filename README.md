@@ -19,7 +19,7 @@ This repository collects some of the key free Microsoft learning paths to help y
 | Microsoft Security, Compliance and Identity Fundamentals | [Go to course](https://learn.microsoft.com/en-us/plans/5dyyborpmok24n?tab=tab-created&learnerGroupId=fe237206-bf5d-483f-9d0f-281b6f5e925b&wt.mc_id=studentamb_454878) |
 | Copilot for Microsoft 365 | [Go to course](https://learn.microsoft.com/en-us/plans/o1mmcm6o12jygw?tab=tab-started&source=docs&learnerGroupId=b487643d-bde1-44ed-868d-76b47f83e61d&wt.mc_id=studentamb_454878) |
 | Get started with GitHub and GitHub Copilot | [Go to course](https://learn.microsoft.com/en-us/plans/gm88tr6o5y5zyk?tab=tab-created&learnerGroupId=1aec470a-1865-405c-9dc8-9ba905b3f53a&wt.mc_id=studentamb_454878) |
-| Get started with C# | [Loading....] |
+| Get started with C# | [Go to course](https://learn.microsoft.com/en-us/plans/31zzc4mw2wk5re?tab=tab-started&source=docs&learnerGroupId=4ba326f3-5f36-4247-a054-66553b74f710&wt.mc_id=studentamb_454878) |
 
 > 📌 Click on the course name to access its contents directly.
 
