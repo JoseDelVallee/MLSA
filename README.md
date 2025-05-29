@@ -89,9 +89,6 @@ Once you finish a course, please submit your completion proof using this form:
 
 👉 [**Submit evidence here**](https://docs.google.com/forms/d/e/1FAIpQLSc-PVQR8njxZKZtbnTkb5tZIz8-ICPguZmwyZnrtvKr1EfDlw/viewform?usp=sharing&ouid=116941962524305950926)
 
-> This helps us track your progress and recognize your effort. 🌟
-
-
 > This helps us keep track of your progress and recognize your efforts. 🌟
 
 
